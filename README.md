@@ -8,6 +8,8 @@ Free React Material-UI Admin Template - this react template will be a great star
 - [Material Dashboard Pro React](https://www.creative-tim.com/product/material-dashboard-pro-react?AFFILIATE=128200) - premium dashboard provided by **Creative-Tim**
 - [React Dashboards](https://admin-dashboards.com/react-dashboards-curated-open-source-apps/) - a curated list
 
+<br />
+
 > Features
 
 - **No jQuery and Bootstrap!**
