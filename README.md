@@ -1,24 +1,17 @@
-# React Material Admin — Material-UI Dashboard Template
+# [React Dashboard](https://admin-dashboards.com/react-dashboards-curated-open-source-apps/) - Material Admin
 
-Built with [React](https://facebook.github.io/react/), [Material-UI](https://material-ui.com), [React Router](https://reacttraining.com/react-router/).
-**No jQuery and Bootstrap!**
+Free React Material-UI Admin Template - this react template will be a great start to built a front-end for SAAS, E-Commerce, IoT dashboard or whatever web app you like. We are going to keep it updated and provide more and more components for both free and premium versions. 
 
-**This version uses React 16.8.6, React Router v5, MaterialUI v4, built with React Hooks and React Context (No Redux)**
+> Links
 
-[Demo](https://flatlogic.com/admin-dashboards/react-material-admin/demo). Use any credentials to log in.
+- [React Dashboard - Material Admin](https://admin-dashboards.com/react-dashboard-material-admin-flatlogic/) - Full review provided by [Admin Dashboards](https://admin-dashboards.com/)
+- [Material Dashboard Pro React](https://www.creative-tim.com/product/material-dashboard-pro-react?AFFILIATE=128200) - premium dashboard provided by **Creative-Tim**
+- [React Dashboards](https://admin-dashboards.com/react-dashboards-curated-open-source-apps/) - a curated list
 
-[![image](https://user-images.githubusercontent.com/24964748/55800639-df780300-5adc-11e9-84b7-7c2437088516.png)](https://flatlogic.com/admin-dashboards/react-material-admin/demo)
+> Features
 
-## Full Version
-
-This is a limited version of [**Full React Material Admin**](https://flatlogic.com/templates/react-material-admin-full/demo) with more components, pages and theme support.
-
-## Features
-
-- React (**16.8.6**)
-- React Hooks
-- React Context
 - **No jQuery and Bootstrap!**
+- React (**16.8.6**), React Hooks, React Context
 - Mobile friendly layout (responsive)
 - Create-react-app under the hood
 - React Router v5
@@ -28,6 +21,12 @@ This is a limited version of [**Full React Material Admin**](https://flatlogic.c
 - Webpack build
 - Stylish, clean, responsive layout
 - Authentication
+
+<br />
+
+![React Dashboard - Material Admin, open source react dashboard template.](https://raw.githubusercontent.com/admin-dashboards/react-dashboard-material-admin/master/media/react-dashboard-material-admin-intro.gif)
+
+<br />
 
 ## Pages
 
@@ -104,3 +103,8 @@ Looking for premium themes and templates? Check out more [admin dashboard templa
 ## License
 
 [MIT](https://github.com/flatlogic/react-material-dashboard/blob/master/LICENSE.txt).
+
+<br />
+
+---
+[React Dashboard](https://admin-dashboards.com/react-dashboards-curated-open-source-apps/) Material Admin - Open-Source React Dashboard Template
